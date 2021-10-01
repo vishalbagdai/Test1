@@ -1,0 +1,24 @@
+I haven't added any unit test project due to time constraint but here is my thought on unit test:
+  - I will add separate nunit test project library for each layer
+  - I will write all possible valid/invalid scenario including edge scenario
+  - I will use autofixture to create autogenerate data.
+  - Mock methods as needed
+  - Assert as many as values you can
+  - Most of the unit test case written for engine layer which i have created where host and processor will have little less.
+  
+Authentication / Authorization:
+  - I haven't implemented authentication in this test but we can achieve it through IdentityServer (oauth2) authentication. We can decorate Authorize attribute on startup/controller/endpoint level as needed.
+  - I haven't implemented authorization but we can achieve it by implementing policy (middleware) based on the role and scope.
+
+There is many more things which i haven't covered in this test but i do know each things which i am writing here e.g..,
+  - Logging error 
+  - Custom Model Validation
+  - Custom Attribute Validation
+  - Discovery documents for API
+  - Health Checks
+  - Session Token
+  
+ again this is not the end... architecturally we can create seperate library for all above point and can be used with different APIs (reuse code by creating nuget package)
+ 
+ Thanks for reading my notes.
+ Cheers.
