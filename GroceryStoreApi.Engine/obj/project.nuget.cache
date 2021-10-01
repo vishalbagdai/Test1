@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MaSckq35zSHx4pvrq6Rv4w2atWyc9DboYK3/peJ9SYIhV3xLpfv5u73wR0mF+nOCFfWCm1EWjAlfr6Z9zSQSZA==",
+  "success": true,
+  "projectFilePath": "F:\\development\\test1\\GroceryStoreApi.Engine\\GroceryStoreApi.Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\visha\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

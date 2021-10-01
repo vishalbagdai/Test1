@@ -1,0 +1,8 @@
+F:\development\test1\GroceryStoreApi.Model\bin\Debug\netcoreapp3.1\GroceryStoreApi.Model.deps.json
+F:\development\test1\GroceryStoreApi.Model\bin\Debug\netcoreapp3.1\GroceryStoreApi.Model.dll
+F:\development\test1\GroceryStoreApi.Model\bin\Debug\netcoreapp3.1\GroceryStoreApi.Model.pdb
+F:\development\test1\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.AssemblyInfoInputs.cache
+F:\development\test1\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.AssemblyInfo.cs
+F:\development\test1\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.csproj.CoreCompileInputs.cache
+F:\development\test1\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.dll
+F:\development\test1\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.pdb

@@ -1,0 +1,8 @@
+F:\development\test1\GroceryStoreAPI.ExceptionHandler\bin\Debug\netcoreapp3.1\GroceryStoreAPI.ExceptionHandler.deps.json
+F:\development\test1\GroceryStoreAPI.ExceptionHandler\bin\Debug\netcoreapp3.1\GroceryStoreAPI.ExceptionHandler.dll
+F:\development\test1\GroceryStoreAPI.ExceptionHandler\bin\Debug\netcoreapp3.1\GroceryStoreAPI.ExceptionHandler.pdb
+F:\development\test1\GroceryStoreAPI.ExceptionHandler\obj\Debug\netcoreapp3.1\GroceryStoreAPI.ExceptionHandler.AssemblyInfoInputs.cache
+F:\development\test1\GroceryStoreAPI.ExceptionHandler\obj\Debug\netcoreapp3.1\GroceryStoreAPI.ExceptionHandler.AssemblyInfo.cs
+F:\development\test1\GroceryStoreAPI.ExceptionHandler\obj\Debug\netcoreapp3.1\GroceryStoreAPI.ExceptionHandler.csproj.CoreCompileInputs.cache
+F:\development\test1\GroceryStoreAPI.ExceptionHandler\obj\Debug\netcoreapp3.1\GroceryStoreAPI.ExceptionHandler.dll
+F:\development\test1\GroceryStoreAPI.ExceptionHandler\obj\Debug\netcoreapp3.1\GroceryStoreAPI.ExceptionHandler.pdb

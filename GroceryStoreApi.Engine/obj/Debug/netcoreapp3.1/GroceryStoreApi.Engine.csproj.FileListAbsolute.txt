@@ -1,0 +1,14 @@
+F:\development\test1\GroceryStoreApi.Engine\bin\Debug\netcoreapp3.1\GroceryStoreApi.Engine.deps.json
+F:\development\test1\GroceryStoreApi.Engine\bin\Debug\netcoreapp3.1\GroceryStoreApi.Engine.dll
+F:\development\test1\GroceryStoreApi.Engine\bin\Debug\netcoreapp3.1\GroceryStoreApi.Engine.pdb
+F:\development\test1\GroceryStoreApi.Engine\obj\Debug\netcoreapp3.1\GroceryStoreApi.Engine.csprojAssemblyReference.cache
+F:\development\test1\GroceryStoreApi.Engine\obj\Debug\netcoreapp3.1\GroceryStoreApi.Engine.AssemblyInfoInputs.cache
+F:\development\test1\GroceryStoreApi.Engine\obj\Debug\netcoreapp3.1\GroceryStoreApi.Engine.AssemblyInfo.cs
+F:\development\test1\GroceryStoreApi.Engine\obj\Debug\netcoreapp3.1\GroceryStoreApi.Engine.csproj.CoreCompileInputs.cache
+F:\development\test1\GroceryStoreApi.Engine\obj\Debug\netcoreapp3.1\GroceryStoreApi.Engine.dll
+F:\development\test1\GroceryStoreApi.Engine\obj\Debug\netcoreapp3.1\GroceryStoreApi.Engine.pdb
+F:\development\test1\GroceryStoreApi.Engine\bin\Debug\netcoreapp3.1\GroceryStoreApi.Entity.dll
+F:\development\test1\GroceryStoreApi.Engine\bin\Debug\netcoreapp3.1\GroceryStoreApi.Entity.pdb
+F:\development\test1\GroceryStoreApi.Engine\obj\Debug\netcoreapp3.1\GroceryStoreApi.Engine.csproj.CopyComplete
+F:\development\test1\GroceryStoreApi.Engine\bin\Debug\netcoreapp3.1\GroceryStoreAPI.ExceptionHandler.dll
+F:\development\test1\GroceryStoreApi.Engine\bin\Debug\netcoreapp3.1\GroceryStoreAPI.ExceptionHandler.pdb
